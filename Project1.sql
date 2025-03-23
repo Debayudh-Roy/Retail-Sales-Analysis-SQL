@@ -20,6 +20,8 @@ create table retail_sales(
  total_sale FLOAT
 );
 
+
+-- checking for null rows
 select * 
 from retail_sales
 where 
