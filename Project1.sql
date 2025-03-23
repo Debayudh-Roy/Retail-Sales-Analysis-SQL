@@ -70,8 +70,6 @@ where
   or
   total_sale is null;
 
-select count(*) from retail_sales;
-
 -- Data exploration
 
 -- How many sales we have
